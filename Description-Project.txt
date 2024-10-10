@@ -1,0 +1,31 @@
+// Projeto de Análise de Dados: Produtividade e Bem-Estar no Ambiente de Trabalho \\
+
+Descrição:
+
+Este projeto tem como objetivo analisar a relação entre o tipo de emprego 
+(remoto ou no escritório) e suas implicações na produtividade e no bem-estar dos funcionários. 
+Utilizando um conjunto de dados que contém informações sobre ID do funcionário, 
+tipo de emprego, horas trabalhadas por semana, pontuação de produtividade e 
+pontuação de bem-estar, buscamos extrair insights significativos que podem 
+auxiliar na tomada de decisões para melhorar o ambiente de trabalho.
+
+
+
+Objetivos:
+
+Análise Exploratória de Dados (EDA): Investigar as distribuições das variáveis 
+e suas inter-relações, destacando padrões e tendências.
+Visualização de Dados: Criar gráficos de dispersão e outros tipos de 
+visualizações para ilustrar a correlação entre produtividade e bem-estar, além 
+de comparar o desempenho entre funcionários remotos e aqueles que trabalham no escritório.
+Insights e Recomendações: Fornecer recomendações baseadas em dados para otimizar
+as condições de trabalho e aumentar a satisfação e a eficiência dos funcionários.
+
+
+
+Tecnologias Utilizadas:
+
+Python: Linguagem de programação utilizada para análise e manipulação de dados.
+Pandas: Biblioteca para manipulação e análise de dados.
+Matplotlib e Seaborn: Bibliotecas para visualização de dados.
+Jupyter Notebook: Ambiente de desenvolvimento utilizado para documentar o processo de análise.
